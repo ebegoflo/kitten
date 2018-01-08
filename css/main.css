@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.screen_Large {
+  background-image: url(../assets/images/sunny-day.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+}
+
+/* .screen_medium {
+  background-image: url(../assets/images/dawn.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+  visibility: hidden;
+}  */
+/*
+.screen_small {
+  background-image: url(../assets/images/night.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+  visibility: hidden;
+} */
+
+.cat-one {
+  margin-top: 200px;
+}
+
+.cat-two {
+  display: none;
+}
+
+ .cat-trhee {
+    display: none;
+}
